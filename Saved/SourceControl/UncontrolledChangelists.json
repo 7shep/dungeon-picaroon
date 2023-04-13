@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CWComptech(D)/Documents/Unreal Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/CWComptech(D)/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_EnemyAI.uasset",
+				"C:/Users/CWComptech(D)/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/3J/0HL7FBRS745LAJKWL7MEAX.uasset",
+				"C:/Users/CWComptech(D)/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z2/FAIRTMZGRY39XP2BM3KM7N.uasset",
+				"C:/Users/CWComptech(D)/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7E/6GYI7INSHE77H965PJ6VTS.uasset"
+			]
+		}
+	]
+}

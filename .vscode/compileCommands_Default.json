@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\CWComptech(D)\\Documents\\Unreal Projects\\MyProject\\Source\\MyProject\\MovingObject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\CWComptech(D)\\Documents\\Unreal Projects\\MyProject\\.vscode\\compileCommands_Default\\MyProject.255.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\CWComptech(D)\\Documents\\Unreal Projects\\MyProject\\Source\\MyProject\\MovingObject.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\CWComptech(D)\\Documents\\Unreal Projects\\MyProject\\.vscode\\compileCommands_Default\\MyProject.255.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\CWComptech(D)\\Documents\\Unreal Projects\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\CWComptech(D)\\Documents\\Unreal Projects\\MyProject\\.vscode\\compileCommands_Default\\MyProject.255.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\CWComptech(D)\\Documents\\Unreal Projects\\MyProject\\Source\\MyProject\\MyProject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\CWComptech(D)\\Documents\\Unreal Projects\\MyProject\\.vscode\\compileCommands_Default\\MyProject.255.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\CWComptech(D)\\Documents\\Unreal Projects\\MyProject\\Source\\MyProject\\MyProject.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\CWComptech(D)\\Documents\\Unreal Projects\\MyProject\\.vscode\\compileCommands_Default\\MyProject.255.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
